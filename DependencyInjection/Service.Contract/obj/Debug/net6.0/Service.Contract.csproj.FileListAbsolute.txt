@@ -1,0 +1,17 @@
+D:\project C#\DependencyInjection\Service.Contract\bin\Debug\net6.0\Service.Contract.deps.json
+D:\project C#\DependencyInjection\Service.Contract\bin\Debug\net6.0\Service.Contract.dll
+D:\project C#\DependencyInjection\Service.Contract\bin\Debug\net6.0\Service.Contract.pdb
+D:\project C#\DependencyInjection\Service.Contract\bin\Debug\net6.0\Contract.dll
+D:\project C#\DependencyInjection\Service.Contract\bin\Debug\net6.0\Entities.dll
+D:\project C#\DependencyInjection\Service.Contract\bin\Debug\net6.0\Contract.pdb
+D:\project C#\DependencyInjection\Service.Contract\bin\Debug\net6.0\Entities.pdb
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.csproj.AssemblyReference.cache
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.GeneratedMSBuildEditorConfig.editorconfig
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.AssemblyInfoInputs.cache
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.AssemblyInfo.cs
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.csproj.CoreCompileInputs.cache
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.csproj.CopyComplete
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.dll
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\refint\Service.Contract.dll
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\Service.Contract.pdb
+D:\project C#\DependencyInjection\Service.Contract\obj\Debug\net6.0\ref\Service.Contract.dll

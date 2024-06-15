@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "NXd6mItG4ScRwvx0qBpf7LtWACJTfz0uz7c6DoHgE/HxYAF/1Ap+MveDSuK3F9OZnklZfmApUgVxE3fOqpgxoA==",
+  "success": true,
+  "projectFilePath": "D:\\project\\DapendencyInject\\DependencyInjection\\Entities\\Entities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.28\\microsoft.aspnetcore.authentication.jwtbearer.6.0.28.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.abstractions\\7.6.0\\microsoft.identitymodel.abstractions.7.6.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\7.6.0\\microsoft.identitymodel.jsonwebtokens.7.6.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.logging\\7.6.0\\microsoft.identitymodel.logging.7.6.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.35.0\\microsoft.identitymodel.protocols.6.35.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.35.0\\microsoft.identitymodel.protocols.openidconnect.6.35.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.identitymodel.tokens\\7.6.0\\microsoft.identitymodel.tokens.7.6.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.6.0\\system.identitymodel.tokens.jwt.7.6.0.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\David\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

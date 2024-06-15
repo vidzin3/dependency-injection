@@ -1,0 +1,17 @@
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.csproj.AssemblyReference.cache
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.GeneratedMSBuildEditorConfig.editorconfig
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.AssemblyInfoInputs.cache
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.AssemblyInfo.cs
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.csproj.CoreCompileInputs.cache
+D:\project C#\DependencyInjection\Repositorys\bin\Debug\net6.0\Repositorys.deps.json
+D:\project C#\DependencyInjection\Repositorys\bin\Debug\net6.0\Repositorys.dll
+D:\project C#\DependencyInjection\Repositorys\bin\Debug\net6.0\Repositorys.pdb
+D:\project C#\DependencyInjection\Repositorys\bin\Debug\net6.0\Contract.dll
+D:\project C#\DependencyInjection\Repositorys\bin\Debug\net6.0\Entities.dll
+D:\project C#\DependencyInjection\Repositorys\bin\Debug\net6.0\Contract.pdb
+D:\project C#\DependencyInjection\Repositorys\bin\Debug\net6.0\Entities.pdb
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.csproj.CopyComplete
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.dll
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\refint\Repositorys.dll
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\Repositorys.pdb
+D:\project C#\DependencyInjection\Repositorys\obj\Debug\net6.0\ref\Repositorys.dll

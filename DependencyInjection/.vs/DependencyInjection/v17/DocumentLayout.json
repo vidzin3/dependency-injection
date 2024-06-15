@@ -1,0 +1,445 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project C#\\DependencyInjection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|d:\\project c#\\dependencyinjection\\repositorys\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|solutionrelative:repositorys\\accountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\roleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\roleclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|d:\\project c#\\dependencyinjection\\dependencyinjection\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8698B2B7-C3E8-48D0-8A36-1337DDA4540B}|Contract\\Contract.csproj|d:\\project c#\\dependencyinjection\\contract\\iaccountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8698B2B7-C3E8-48D0-8A36-1337DDA4540B}|Contract\\Contract.csproj|solutionrelative:contract\\iaccountinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\tokenmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\loginrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\registerrequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D609D0-D9B7-4912-93A3-5EBD3364B339}|Service.Contract\\Service.Contract.csproj|d:\\project c#\\dependencyinjection\\service.contract\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D609D0-D9B7-4912-93A3-5EBD3364B339}|Service.Contract\\Service.Contract.csproj|solutionrelative:service.contract\\iservicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27D609D0-D9B7-4912-93A3-5EBD3364B339}|Service.Contract\\Service.Contract.csproj|d:\\project c#\\dependencyinjection\\service.contract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27D609D0-D9B7-4912-93A3-5EBD3364B339}|Service.Contract\\Service.Contract.csproj|solutionrelative:service.contract\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|d:\\project c#\\dependencyinjection\\repositorys\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|solutionrelative:repositorys\\repositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|d:\\project c#\\dependencyinjection\\repositorys\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|solutionrelative:repositorys\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8698B2B7-C3E8-48D0-8A36-1337DDA4540B}|Contract\\Contract.csproj|d:\\project c#\\dependencyinjection\\contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8698B2B7-C3E8-48D0-8A36-1337DDA4540B}|Contract\\Contract.csproj|solutionrelative:contract\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8698B2B7-C3E8-48D0-8A36-1337DDA4540B}|Contract\\Contract.csproj|d:\\project c#\\dependencyinjection\\contract\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8698B2B7-C3E8-48D0-8A36-1337DDA4540B}|Contract\\Contract.csproj|solutionrelative:contract\\irepositorymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\auth\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\auth\\roletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D011473-CB92-4D9A-AC58-49352C02458B}|Services\\Services.csproj|d:\\project c#\\dependencyinjection\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D011473-CB92-4D9A-AC58-49352C02458B}|Services\\Services.csproj|solutionrelative:services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D011473-CB92-4D9A-AC58-49352C02458B}|Services\\Services.csproj|d:\\project c#\\dependencyinjection\\services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D011473-CB92-4D9A-AC58-49352C02458B}|Services\\Services.csproj|solutionrelative:services\\servicemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|d:\\project c#\\dependencyinjection\\dependencyinjection\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|d:\\project c#\\dependencyinjection\\dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|d:\\project c#\\dependencyinjection\\repositorys\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{807DD89B-6068-4E54-9CCF-50777F6C8672}|Repositorys\\Repositorys.csproj|solutionrelative:repositorys\\repositorycontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|d:\\project c#\\dependencyinjection\\dependencyinjection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D7BC4864-66FE-4FA6-A73D-45A58FDA7A5C}|DependencyInjection\\DependencyInjection.csproj|solutionrelative:dependencyinjection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\auth\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\auth\\authcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D011473-CB92-4D9A-AC58-49352C02458B}|Services\\Services.csproj|d:\\project c#\\dependencyinjection\\services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2D011473-CB92-4D9A-AC58-49352C02458B}|Services\\Services.csproj|solutionrelative:services\\services.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|d:\\project c#\\dependencyinjection\\entities\\models\\userclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E216BED-C342-4588-9B05-9D8FAAE03E5E}|Entities\\Entities.csproj|solutionrelative:entities\\models\\userclaim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IServiceManager.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Service.Contract\\IServiceManager.cs",
+              "RelativeDocumentMoniker": "Service.Contract\\IServiceManager.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Service.Contract\\IServiceManager.cs",
+              "RelativeToolTip": "Service.Contract\\IServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:34:05.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\DependencyInjection\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\DependencyInjection\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DependencyInjection\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAgwDAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:34:08.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RegisterRequestDto.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\RegisterRequestDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\RegisterRequestDto.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\RegisterRequestDto.cs",
+              "RelativeToolTip": "Entities\\Models\\RegisterRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T04:03:51.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginRequestDto.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\LoginRequestDto.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\LoginRequestDto.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\LoginRequestDto.cs",
+              "RelativeToolTip": "Entities\\Models\\LoginRequestDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T15:18:07.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RoleClaim.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\RoleClaim.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\RoleClaim.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\RoleClaim.cs",
+              "RelativeToolTip": "Entities\\Models\\RoleClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:52:13.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TokenModel.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\TokenModel.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\TokenModel.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\TokenModel.cs",
+              "RelativeToolTip": "Entities\\Models\\TokenModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:50:35.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountRepository.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Repositorys\\AccountRepository.cs",
+              "RelativeDocumentMoniker": "Repositorys\\AccountRepository.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Repositorys\\AccountRepository.cs",
+              "RelativeToolTip": "Repositorys\\AccountRepository.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAApwJgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:54:05.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Repositorys\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "Repositorys\\RepositoryBase.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Repositorys\\RepositoryBase.cs",
+              "RelativeToolTip": "Repositorys\\RepositoryBase.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:39:58.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\User.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\User.cs",
+              "RelativeToolTip": "Entities\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:51:53.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Service.Contract\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Service.Contract\\IAccountService.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Service.Contract\\IAccountService.cs",
+              "RelativeToolTip": "Service.Contract\\IAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:48:20.048Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccountInterface.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Contract\\IAccountInterface.cs",
+              "RelativeDocumentMoniker": "Contract\\IAccountInterface.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Contract\\IAccountInterface.cs",
+              "RelativeToolTip": "Contract\\IAccountInterface.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:44:22.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RepositoryManager.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Repositorys\\RepositoryManager.cs",
+              "RelativeDocumentMoniker": "Repositorys\\RepositoryManager.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Repositorys\\RepositoryManager.cs",
+              "RelativeToolTip": "Repositorys\\RepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:40:13.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Contract\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Contract\\IRepositoryBase.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Contract\\IRepositoryBase.cs",
+              "RelativeToolTip": "Contract\\IRepositoryBase.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:41:47.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IRepositoryManager.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Contract\\IRepositoryManager.cs",
+              "RelativeDocumentMoniker": "Contract\\IRepositoryManager.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Contract\\IRepositoryManager.cs",
+              "RelativeToolTip": "Contract\\IRepositoryManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:42:02.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Services\\AccountService.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Services\\AccountService.cs",
+              "RelativeToolTip": "Services\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:43:39.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ServiceManager.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Services\\ServiceManager.cs",
+              "RelativeDocumentMoniker": "Services\\ServiceManager.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Services\\ServiceManager.cs",
+              "RelativeToolTip": "Services\\ServiceManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:34:33.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\DependencyInjection\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\DependencyInjection\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "DependencyInjection\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwBgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:36:25.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RoleType.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Auth\\RoleType.cs",
+              "RelativeDocumentMoniker": "Entities\\Auth\\RoleType.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Auth\\RoleType.cs",
+              "RelativeToolTip": "Entities\\Auth\\RoleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T08:38:29.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\Role.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\Role.cs",
+              "RelativeToolTip": "Entities\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:52:01.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeDocumentMoniker": "DependencyInjection\\Program.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\DependencyInjection\\Program.cs",
+              "RelativeToolTip": "DependencyInjection\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAB0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:22:46.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\DependencyInjection\\appsettings.json",
+              "RelativeDocumentMoniker": "DependencyInjection\\appsettings.json",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\DependencyInjection\\appsettings.json",
+              "RelativeToolTip": "DependencyInjection\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-12T07:27:52.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RepositoryContext.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Repositorys\\RepositoryContext.cs",
+              "RelativeDocumentMoniker": "Repositorys\\RepositoryContext.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Repositorys\\RepositoryContext.cs",
+              "RelativeToolTip": "Repositorys\\RepositoryContext.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAIAwwEUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:40:27.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\UserRole.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\UserRole.cs",
+              "RelativeToolTip": "Entities\\Models\\UserRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:52:22.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AuthContext.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Auth\\AuthContext.cs",
+              "RelativeDocumentMoniker": "Entities\\Auth\\AuthContext.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Auth\\AuthContext.cs",
+              "RelativeToolTip": "Entities\\Auth\\AuthContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:46:14.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Services.csproj",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Services\\Services.csproj",
+              "RelativeDocumentMoniker": "Services\\Services.csproj",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Services\\Services.csproj",
+              "RelativeToolTip": "Services\\Services.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-12T14:28:06.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UserClaim.cs",
+              "DocumentMoniker": "D:\\project C#\\DependencyInjection\\Entities\\Models\\UserClaim.cs",
+              "RelativeDocumentMoniker": "Entities\\Models\\UserClaim.cs",
+              "ToolTip": "D:\\project C#\\DependencyInjection\\Entities\\Models\\UserClaim.cs",
+              "RelativeToolTip": "Entities\\Models\\UserClaim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T07:52:31.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
